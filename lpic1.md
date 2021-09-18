@@ -1,5 +1,5 @@
 # LPIC1: Personal cheatsheet
-_**Note**_: This'nt complete yet.
+_**Note**_: This isn't complete yet.
 ## title
 
 ```

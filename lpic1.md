@@ -1,5 +1,5 @@
 # LPIC1: Personal cheatsheet
-_**Note**_: This isn't complete yet.
+_**Notes from coures: LPIC1 instructor: Peyman Hooshmandi Raad**_:
 ## title
 
 ```

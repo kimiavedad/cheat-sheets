@@ -3,7 +3,7 @@ _**Notes from course: LPIC1 - instructor: Peyman Hooshmandi Raad**_
 
 ## title
 
-```
+```bash
 # Example
 # $ sort < temp.txt | uniq -c | sort -nr
 #  5 mina
@@ -17,3 +17,7 @@ sed 's/old/new/'        # it replaces first old word of each line wiith new like
 sed 's/old/new/g'       # it replaces globaly
 sed -E 's/old/new/'     # it support regex
 ```
+## Mounting block devices
+```bash
+# dd # read directly from block device (0001111...)
+
